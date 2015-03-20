@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheProxy", "CacheProxy\CacheProxy.csproj", "{7FD0DAC9-2C84-4B8E-9291-19CAE8004446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheProxy.Base", "CacheProxy.Base\CacheProxy.Base.csproj", "{8769EE8F-5C8C-40CC-9681-7BC8FAEEC120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FD0DAC9-2C84-4B8E-9291-19CAE8004446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD0DAC9-2C84-4B8E-9291-19CAE8004446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD0DAC9-2C84-4B8E-9291-19CAE8004446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD0DAC9-2C84-4B8E-9291-19CAE8004446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8769EE8F-5C8C-40CC-9681-7BC8FAEEC120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8769EE8F-5C8C-40CC-9681-7BC8FAEEC120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8769EE8F-5C8C-40CC-9681-7BC8FAEEC120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8769EE8F-5C8C-40CC-9681-7BC8FAEEC120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
